@@ -35,7 +35,7 @@ Run client
 
 ## 心得
 
-更加了解client與server端的關係，以及該如何使用darabase，以及其架構。
+更加了解client與server端的關係，以及該如何使用darabase，以及其架構，最後再修改task的date picker還是有一些問題，無法顯示再方框裡面，但還是可以修改日期
 
 ## 參考
 
